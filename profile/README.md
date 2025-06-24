@@ -1,4 +1,4 @@
-# KYMA - Grupo de Investigación en Diseño y Fabricación de Sensores y Algoritmos de Control 🛠️🔬
+# KYMA UN
 
 <p>
    <img src="https://github.com/kyma-un/.github/blob/main/profile/home%402x.jpg" />
@@ -32,40 +32,5 @@ El grupo KYMA busca avanzar en el campo de la ingeniería mediante la investigac
 3. **Proyectos Interdisciplinarios:**
    - Colaboraciones con otros grupos de investigación en proyectos de robótica, inteligencia artificial y más. 🤝🤖
 
-## Colaboradores 🤝
-
-Nuestro grupo está formado por investigadores, estudiantes y profesionales de diversas áreas. Si estás interesado en colaborar, estudiar o realizar investigaciones con nosotros, ¡no dudes en ponerte en contacto! 📬
-
-## Proyectos Actuales 🔥
-
-- **Proyecto de Sensores para Monitoreo Ambiental 🌍:**
-  Un sistema de sensores diseñado para la recolección de datos ambientales en tiempo real, utilizando técnicas de optimización para el análisis de la calidad del aire. 🌱
-
-- **Algoritmos de Control en Robótica Autónoma 🤖:**
-  Desarrollo de algoritmos de control predictivo para mejorar la navegación autónoma de robots en entornos dinámicos. 🚗
-
-## Cómo Contribuir 🤗
-
-¡Nos encantaría que te unieras a nuestra investigación! Si deseas contribuir a cualquiera de nuestros proyectos, por favor sigue estos pasos:
-
-1. **Fork** el repositorio. 🍴
-2. Crea una **nueva rama** para tu característica o corrección de error (`git checkout -b feature/nueva-funcionalidad`). 🌱
-3. **Haz tus cambios** y asegúrate de que todo esté funcionando correctamente. ✅
-4. **Haz commit** de tus cambios (`git commit -am 'Agregando nueva funcionalidad'`). 💻
-5. **Push** a tu rama (`git push origin feature/nueva-funcionalidad`). 📤
-6. Abre un **pull request**. 📩
-
-## Licencia 📜
-
-Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
-
-## Contacto 📬
-
-Para más información sobre el grupo KYMA o para colaborar con nosotros, puedes ponerte en contacto a través de:
-
-- Correo electrónico: [contacto@kyma.org](mailto:contacto@kyma.org)
-- Página web: [www.kyma.org](http://www.kyma.org)
-
----
 
 Gracias por visitar el repositorio de KYMA. ¡Esperamos trabajar contigo y contribuir al avance de la ciencia y la tecnología! 🚀
