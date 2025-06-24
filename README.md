@@ -1,5 +1,9 @@
 # KYMA - Grupo de Investigación en Diseño y Fabricación de Sensores y Algoritmos de Control
 
+<p style="align: center">
+<img src="https://github.com/kyma-un/.github/blob/main/profile/home%402x.jpg" /> 
+</p>
+
 Bienvenidos al repositorio de KYMA, un grupo de investigación dedicado al desarrollo y la innovación en el **Diseño y Fabricación de Sensores** y **Algoritmos de Control**. Nuestro trabajo se centra en crear soluciones tecnológicas avanzadas para una variedad de aplicaciones industriales y científicas.
 
 ## Misión
